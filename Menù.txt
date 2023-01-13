@@ -1,0 +1,31 @@
+Menù
+
+Antipasti                     Costo
+-                             €
+-                             €
+-                             €
+-                             €
+
+Primi Piatti                  Costo
+-                             €
+-                             €
+-                             €
+-                             €
+
+Secondi Piatti                Costo
+-                             €
+-                             €
+-                             €
+-                             €
+
+Dolci                         Costo
+-                             €
+-                             €
+-                             €
+-                             €
+
+Bevande                       Costo
+-                             €
+-                             €
+-                             €
+-                             €
