@@ -7,10 +7,10 @@ Antipasti                     Costo
 -                             €
 
 Primi Piatti                  Costo
--                             €
--                             €
--                             €
--                             €
+- Fusilli al sugo             € 8
+- Spaghetti cozze (o vongole) € 14
+- Linguine ai funghi porcini  € 12
+- Orecchiette con cime di rapa € 10
 
 Secondi Piatti                Costo
 -                             €
