@@ -1,10 +1,12 @@
 Menù
 
 Antipasti                       Costo
--                               €
--                               €
--                               €
--                               €
+- Fritto misto                  € 6
+- Patate a spicchi con bacon    € 6
+- Bruschette                    € 3
+- Antipasto di mare 
+    (min 2 persone)             € 12
+
 
 Primi Piatti                    Costo
 - Fusilli al sugo               € 8
