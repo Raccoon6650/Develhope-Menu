@@ -13,10 +13,10 @@ Primi Piatti                  Costo
 - Orecchiette con cime di rapa € 10
 
 Secondi Piatti                Costo
--                             €
--                             €
--                             €
--                             €
+- Cotechino con lenticchie    € 8
+- Polpette al sugo            € 7
+- Pollo alle mandorle         € 8
+- Gamberoni al forno          € 10
 
 Dolci                         Costo
 - Tiramisù                    € 5
