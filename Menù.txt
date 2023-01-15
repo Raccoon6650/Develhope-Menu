@@ -1,32 +1,33 @@
 Menù
 
-Antipasti                     Costo
--                             €
--                             €
--                             €
--                             €
+Antipasti                       Costo
+- Fritto misto                  € 6
+- Patate a spicchi con bacon    € 6
+- Bruschette                    € 3
+- Antipasto di mare 
+    (min 2 persone)             € 12
 
-Primi Piatti                  Costo
-- Fusilli al sugo             € 8
-- Spaghetti cozze (o vongole) € 14
-- Linguine ai funghi porcini  € 12
-- Orecchiette con cime di rapa € 10
+Primi Piatti                    Costo
+- Fusilli al sugo               € 8
+- Spaghetti cozze (o vongole)   € 14
+- Linguine ai funghi porcini    € 12
+- Orecchiette con cime di rapa  € 10
 
-Secondi Piatti                Costo
-- Cotechino con lenticchie    € 8
-- Polpette al sugo            € 7
-- Pollo alle mandorle         € 8
-- Gamberoni al forno          € 10
+Secondi Piatti                  Costo
+- Cotechino con lenticchie      € 8
+- Polpette al sugo              € 7
+- Pollo alle mandorle           € 8
+- Gamberoni al forno            € 10
 
-Dolci                         Costo
-- Tiramisù                    € 5
-- Cannolo scomposto           € 6
+Dolci                           Costo
+- Tiramisù                      € 5
+- Cannolo scomposto             € 6
 - Mousse di ricotta con gelee 
-  al mango                    € 6
-- Croccante all'amarena       € 6
+  al mango                      € 6
+- Croccante all'amarena         € 6
 
-Bevande                       Costo
--                             €
--                             €
--                             €
--                             €
+Bevande                         Costo
+-                               €
+-                               €
+-                               €
+-                               €
