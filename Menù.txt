@@ -19,10 +19,11 @@ Secondi Piatti                Costo
 -                             €
 
 Dolci                         Costo
--                             €
--                             €
--                             €
--                             €
+- Tiramisù                    € 5
+- Cannolo scomposto           € 6
+- Mousse di ricotta con gelee 
+  al mango                    € 6
+- Croccante all'amarena       € 6
 
 Bevande                       Costo
 -                             €
