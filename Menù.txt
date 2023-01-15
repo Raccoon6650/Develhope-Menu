@@ -28,7 +28,7 @@ Dolci                           Costo
 - Croccante all'amarena         € 6
 
 Bevande                         Costo
--                               €
--                               €
--                               €
--                               €
+- Acqua Minerale                € 1
+- Coca Cola                     € 1,50
+- Gassosa                       € 1
+- The alla Pesca                € 1,50
